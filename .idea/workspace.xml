@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02713ad4-4c89-4ce8-8378-5204e513a4c6" name="Default Changelist" comment="git commit -m &quot;new changes&quot;" />
+    <list default="true" id="02713ad4-4c89-4ce8-8378-5204e513a4c6" name="Default Changelist" comment="git commit -m &quot;new changes&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608279636941</updated>
-      <workItem from="1608279643446" duration="9087000" />
+      <workItem from="1608279643446" duration="10057000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;new changes&quot;">
       <created>1608309046936</created>
